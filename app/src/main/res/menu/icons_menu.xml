@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/notesMenuItem"
+        android:icon="@drawable/ic_notes"
+        android:title="@string/notes"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/tasksMenuItem"
+        android:icon="@drawable/ic_tasks_icon"
+        android:title="@string/tasks"
+        app:showAsAction="ifRoom" />
+</menu>

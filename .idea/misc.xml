@@ -7,7 +7,12 @@
         <entry key="app/src/main/res/layout/activity_create_nota.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_tareas.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_note_detail.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/fragment_notes.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/fragment_tasks.xml" value="0.37395833333333334" />
         <entry key="app/src/main/res/layout/lista_tareas.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/note_item.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/task_item.xml" value="0.37395833333333334" />
       </map>
     </option>
   </component>

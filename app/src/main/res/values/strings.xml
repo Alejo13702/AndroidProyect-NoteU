@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ProyectAndroid</string>
+    <string name="notes">Notas</string>
+    <string name="empty_string" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_note_hint">Escribe tu nota</string>
+    <string name="title_hint">Titulo</string>
+    <string name="tasks">Tareas</string>
+    <string name="tasks_fragment">tasksFragment</string>
+    <string name="note_detail_fragment">noteDetailFragment</string>
 </resources>
